@@ -1,0 +1,7 @@
+{
+  "name": "micro-aws-deploy",
+  "version": "0.0.0",
+  "description": "Gulp plugins and tools to deploy to AWS API Gateway, DynamoDB, IAM, Lambda and S3.",
+  "author": "Wayne Bloss <waynebloss@gmail.com> (https://github.com/devoptix)",
+  "main": "index.js"
+}
